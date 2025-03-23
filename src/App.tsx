@@ -1,4 +1,4 @@
-import Container from './template/Container';
+import Container from './learning/Container';
 
 function App() {
   return <Container />;
